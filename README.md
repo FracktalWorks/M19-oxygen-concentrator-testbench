@@ -13,7 +13,7 @@ vjvarada@fracktal.in
 # Usage
 
 ### Arduino Firmware
-Upload the firmware.ino code in the firmware folder
+Add Arduino libraries into your Arduino libraries directory and upload the firmware.ino code in the firmware folder
 
 ### Settings Tab
 ![alt text](https://github.com/FracktalWorks/M19-oxygen-concentrator-testbench/raw/main/Images/Settings%20Tab.png "Settings Tab")
